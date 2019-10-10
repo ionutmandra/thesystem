@@ -4,6 +4,10 @@
 Organisation strategy [Portofolio -> Program -> Project] ->  
 **Project**: Initiating -> Planning -> Executing -> Monitoring and Controlling -> Closing  
 
+Next picture is from thoughtworks free chapter for EDGE book:
+![alt text](https://github.com/ionutmandra/thesystem/blob/master/ThoughtworksEDGE.png)
+
+
 **Zoom 1 in Project**:  
 Project details [Requirements, Budget, Resources, Timeline ... ] ->  
 Upfront planning (when most of constraints are clear) vs **Agile** (less initial planning, iterate, adjust)
