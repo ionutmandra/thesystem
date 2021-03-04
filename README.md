@@ -49,6 +49,7 @@ General
 * azure https://docs.microsoft.com/en-us/learn/modules/pillars-of-a-great-azure-architecture/
 * https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/reference/networking-vdc#virtual-datacenter-overview
 * test1 fb c1
+* test1 fb c2
 
 mc1
 mc2
